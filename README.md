@@ -33,9 +33,8 @@ Your Room (the area in front of you) has a specific capacity.
 •	4 Players: Room Limit is 4 Cards.
 Once you reach this limit, you are "Full" and cannot take any more cards during the main gameplay.
  
- Gameplay:
+Gameplay:
 Play proceeds clockwise. On your turn, choose 1 card from your hand to offer.
-Gameplay goes according to the following image:
 <img width="1073" height="946" alt="image" src="https://github.com/user-attachments/assets/d22d767d-b2b6-43a9-a6a4-e9135cc40c86" />
 
 Game End:
