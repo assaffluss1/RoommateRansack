@@ -10,22 +10,22 @@ The apartment is a disaster zone. Trash is piling up in the hallway! You must ch
 Components (18 Cards + Statue):
 •	1 Poop Statue (The Token of Shame)
 •	12 Filth Cards (Negative Points):
-  o	3x (+5 Filth) Cards
-  o	4x (+3 Filth) Cards
-  o	5x (+1 Filth) Cards
+    3x (+5 Filth) Cards
+    4x (+3 Filth) Cards
+    5x (+1 Filth) Cards
 •	6 Excuse Cards (0 Filth):
-  o	These cards add 0 to your score and some have special effects.
-  o	 Excuse card effects happen only when they enter the players room, or when flipped over if they were face-down.
-  o	Face-down cards can also be discarded to the hallway using excuse cards.
+    These cards add 0 to your score and some have special effects.
+    Excuse card effects happen only when they enter the players room, or when flipped over if they were face-down.
+    Face-down cards can also be discarded to the hallway using excuse cards.
   
 Setup (New Round):
 1.	Shuffle the deck of 18 cards.
 2.	Deal the cards based on the player count:
-  o	3 Players: Deal 5 cards to each player. (Room Limit: 5)
-  o	4 Players: Deal 4 cards to each player. (Room Limit: 4)
-  o	Remove remaining cards from the game unseen. They are not in the game at all and do not go in the hallway.
-3.	Place the Shitty Poop in the center of the table (or with whoever held it last).
-4.	Designate the middle of the table as "The Hallway" (Discard pile).
+    3 Players: Deal 5 cards to each player. (Room Limit: 5)
+  	4 Players: Deal 4 cards to each player. (Room Limit: 4)
+  	Remove remaining cards from the game unseen. They are not in the game at all and do not go in the hallway.
+4.	Place the Shitty Poop in the center of the table (or with whoever held it last).
+5.	Designate the middle of the table as "The Hallway" (Discard pile).
    
 Core Rule: The Room Limit:
 Your Room (the area in front of you) has a specific capacity.
