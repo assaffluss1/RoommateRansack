@@ -8,11 +8,11 @@ The Concept:
 The apartment is a disaster zone. Trash is piling up in the hallway! You must choose whether to volunteer to take small trash items to fill up your room, or risk having the heavy trash forced upon you at the end of the day. And whatever you do, don't get caught lying, or you’ll be holding the Shitty Poop!
 
 Components (18 Cards + Statue):
-•	1 Poop Statue (The Token of Shame)
-•	12 Filth Cards (Negative Points):
-    3x (+5 Filth) Cards
-    4x (+3 Filth) Cards
-    5x (+1 Filth) Cards
+    1 Poop Statue (The Token of Shame)
+    12 Filth Cards (Negative Points):
+        3x (+5 Filth) Cards
+        4x (+3 Filth) Cards
+        5x (+1 Filth) Cards
 •	6 Excuse Cards (0 Filth):
     These cards add 0 to your score and some have special effects.
     Excuse card effects happen only when they enter the players room, or when flipped over if they were face-down.
